@@ -83,6 +83,7 @@ Grouping
 Revenue calculations
 Customer segmentation
 5️⃣ 📈 Power BI Dashboard
+<img width="1997" height="1098" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/c7fc3742-1b06-4f93-b784-b3507a60a911" />
 
 Created an interactive dashboard featuring:
 
